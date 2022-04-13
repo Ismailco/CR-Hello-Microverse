@@ -2,7 +2,7 @@
 
 # CR Hello Microverse
 
-> This is a project for practicing geving and reciving Code Review.
+> In this project, I setup a "Hello world" repository to practice tools and best practices such as: linters, and creating professional Readme, this project is for practicing geving and reciving Code Review.
 
 ## Built With
 
