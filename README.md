@@ -4,39 +4,25 @@
 
 > This is a project for practicing geving and reciving Code Review.
 
-
 ## Built With
 
 - HTML
 - CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
+- Browser
+- terminal
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
-
+- Run ```git clone https://github.com/Ismailco/CR-Hello-Microverse.git``` in your terminal
+- Run ```cd CR-Hello-Microverse```
+- Open the cloned repository with your favorite text editor
+ - Ex: ``` code .``` for VS Code
+ 
 ## Authors
 
 👤 **Ismailco**
